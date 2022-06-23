@@ -10,9 +10,9 @@
 | Record Storage         | The object model accommodates for transaction history being a high volume record set                                      | 25     |       |
 
 # Part 2
-### Automation
+### Automation 
 
-| Criteria               | Description                                                                                               | Weight | Score |
+| Automation Criteria               | Description                                                                                               | Weight | Score |
 | ---------------------- | --------------------------------------------------------------------------------------------------------- | ------ | ----- |
 | Implementation         | The implementation meets the requirements of the tasks                                                    | 20     |       |
 | Platform Best Practice | The implementation demonstrates the best practices of the Salesforce platform                             | 20     |       |
