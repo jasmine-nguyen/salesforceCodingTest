@@ -1,7 +1,7 @@
 # Part 1
 ### Configuration
 
-| Configuration Criteria               | Description                                                                                                               | Weight | Score |
+| Configuration Criteria 1              | Description                                                                                                               | Weight | Score |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------ | ----- |
 | Basic Modelling        | The modelling completed meets the requirements to model three layers; customer, financial account and transaction history | 40     |       |
 | Sharing Model          | The objects are modelled in a way that accommodates for a private sharing model                                           | 10     |       |
